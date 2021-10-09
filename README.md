@@ -1,2 +1,2 @@
 # EasyBill
-Java based online electricity bill payment system.
+Java and MySQL based online electricity bill payment system.
