@@ -1,0 +1,8 @@
+. public  class Test {
+	int j; //line 1
+	public static void main(String str[]) {
+	int i=0; // line 2
+	System.out.println(i); // line 3
+	System.out.println(j); //line 4
+	}
+	}
